@@ -1,0 +1,951 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a04b0ca1-23d2-4b45-8eb0-ba990073c570" name="Default Changelist" comment="提交测试文件">
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/xmg/list/E31_StringContainer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/xmg/map/E31_StringContainer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/xmg/map/FieldTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/xmg/map/Individual.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/xmg/map/ListPerformance.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/xmg/map/ListPerformance2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/xmg/map/MapPerformance.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/xmg/map/SetPerformance.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/xmg/map/SetPerformance2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/xmg/map/SimpleHashMap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/xmg/map/TestParm.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/xmg/map/TestXmgList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/xmg/map/Tester.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/xmg/util/CollectionData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/xmg/util/CountingGenerator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/xmg/util/Generated.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/xmg/util/Generator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/xmg/util/RandomBounds.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/xtest/list/StringContainter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/xtest/list/StringList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/xtest/set/SetTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/META-INF/basejava.kotlin_module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/xmg/list/E31_StringContainer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/xmg/list/StringContainer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/xmg/map/E31_StringContainer$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/xmg/map/E31_StringContainer$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/xmg/map/E31_StringContainer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/xmg/map/FieldTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/xmg/map/Individual.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/xmg/map/ListPerformance$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/xmg/map/ListPerformance$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/xmg/map/ListPerformance.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/xmg/map/ListPerformance2$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/xmg/map/ListPerformance2$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/xmg/map/ListPerformance2$3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/xmg/map/ListPerformance2$4.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/xmg/map/ListPerformance2$5.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/xmg/map/ListPerformance2$6.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/xmg/map/ListPerformance2$ListTester.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/xmg/map/ListPerformance2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/xmg/map/MapPerformance$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/xmg/map/MapPerformance$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/xmg/map/MapPerformance$3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/xmg/map/MapPerformance.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/xmg/map/SetPerformance$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/xmg/map/SetPerformance$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/xmg/map/SetPerformance$3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/xmg/map/SetPerformance.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/xmg/map/SetPerformance2$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/xmg/map/SetPerformance2$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/xmg/map/SetPerformance2$3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/xmg/map/SetPerformance2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/xmg/map/SimpleHashMap.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/xmg/map/SimpleJava.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/xmg/map/StringContainer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/xmg/map/TestParm.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/xmg/map/TestXmgList.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/xmg/map/Tester.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/xmg/util/CollectionData.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/xmg/util/CountingGenerator$Boolean.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/xmg/util/CountingGenerator$Byte.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/xmg/util/CountingGenerator$Character.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/xmg/util/CountingGenerator$Double.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/xmg/util/CountingGenerator$Float.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/xmg/util/CountingGenerator$Integer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/xmg/util/CountingGenerator$Long.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/xmg/util/CountingGenerator$Short.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/xmg/util/CountingGenerator$String.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/xmg/util/CountingGenerator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/xmg/util/Generated.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/xmg/util/Generator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/xmg/util/RandomBounds.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/com/xtest/list/StringContainter.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/com/xtest/list/StringList.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/com/xtest/map/MapTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/com/xtest/set/SetTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/basejava.iml" beforeDir="false" afterPath="$PROJECT_DIR$/basejava.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/xmg/map/SimpleJava.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/xmg/map/SimpleJava.java" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="basejava" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/xmg/map/SetPerformance.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="278">
+              <caret line="56" column="5" lean-forward="true" selection-start-line="51" selection-start-column="4" selection-end-line="56" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/xmg/map/SetPerformance2.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="251">
+              <caret line="63" column="20" lean-forward="true" selection-start-line="63" selection-start-column="20" selection-end-line="63" selection-end-column="20" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/xtest/set/SetTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="305">
+              <caret line="18" column="17" selection-start-line="18" selection-start-column="17" selection-end-line="18" selection-end-column="17" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/xmg/map/MapPerformance.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="885">
+              <caret line="58" lean-forward="true" selection-start-line="58" selection-end-line="58" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/xmg/map/SimpleJava.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="27">
+              <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/xmg/map/SimpleHashMap.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="297">
+              <caret line="31" lean-forward="true" selection-start-line="31" selection-end-line="31" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/xtest/list/StringContainter.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="181">
+              <caret line="28" column="13" selection-start-line="28" selection-start-column="13" selection-end-line="28" selection-end-column="13" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/xmg/map/Tester.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="162">
+              <caret line="6" column="37" lean-forward="true" selection-start-line="6" selection-start-column="37" selection-end-line="6" selection-end-column="37" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/xmg/map/TestParm.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="224">
+              <caret line="10" column="20" lean-forward="true" selection-start-line="10" selection-start-column="20" selection-end-line="10" selection-end-column="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/xmg/map/ListPerformance2.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="251">
+              <caret line="80" column="67" lean-forward="true" selection-start-line="80" selection-start-column="67" selection-end-line="80" selection-end-column="67" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>compareTo</find>
+      <find>toArray</find>
+      <find>add</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/test/java/com/xtest/map/MapTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/xmg/map/SimpleHashMap.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/xmg/map/SimpleJava.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/xmg/map/Individual.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/xmg/map/Test.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/xmg/map/TestParm.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/xmg/map/FieldTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/xmg/util/CountingGenerator.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/xmg/util/Generator.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/xmg/util/Generated.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/xmg/util/CollectionData.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/xmg/map/CountingStringList.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/xmg/map/ListPerformance2.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/xtest/list/TestParm.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/xtest/list/StringList.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/xmg/map/TestXmgList.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/xmg/list/StringList.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/xmg/list/StringContainter.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/xmg/map/ListPerformance.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/xmg/list/StringContainterTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/xtest/list/StringContainter.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/xmg/list/StringContainterDemo.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/xmg/map/E31_StringContainer.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/xmg/list/E31_StringContainer.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/xmg/util/RandomBounds.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/xmg/map/SetPerformance.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/xmg/map/SetPerformance2.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/xtest/set/SetTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/xmg/map/Tester.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/xmg/map/MapPerformance.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="260" />
+    <option name="y" value="114" />
+    <option name="width" value="1400" />
+    <option name="height" value="1000" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="basejava" type="b2602c69:ProjectViewProjectNode" />
+              <item name="basejava" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="basejava" type="b2602c69:ProjectViewProjectNode" />
+              <item name="basejava" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="basejava" type="b2602c69:ProjectViewProjectNode" />
+              <item name="basejava" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="basejava" type="b2602c69:ProjectViewProjectNode" />
+              <item name="basejava" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="basejava" type="b2602c69:ProjectViewProjectNode" />
+              <item name="basejava" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="xtest" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1545793783312" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\work\idea\basejava\src\main\java\com\xmg\map" />
+      <recent name="D:\work\idea\basejava\src\main\java\com\xmg\list" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.xmg.map" />
+      <recent name="com.xtest.list" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.xmg.map" />
+      <recent name="com.xmg.util" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.MapPerformance">
+    <configuration name="MapPerformance" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.xmg.map.MapPerformance" />
+      <module name="basejava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.xmg.map.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SetPerformance" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.xmg.map.SetPerformance" />
+      <module name="basejava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.xmg.map.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SetPerformance2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.xmg.map.SetPerformance2" />
+      <module name="basejava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.xmg.map.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SetTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.xtest.set.SetTest" />
+      <module name="basejava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.xtest.set.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Tester" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.xmg.map.Tester" />
+      <module name="basejava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.xmg.map.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.MapPerformance" />
+        <item itemvalue="Application.SetTest" />
+        <item itemvalue="Application.SetPerformance2" />
+        <item itemvalue="Application.Tester" />
+        <item itemvalue="Application.SetPerformance" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a04b0ca1-23d2-4b45-8eb0-ba990073c570" name="Default Changelist" comment="" />
+      <created>1545041250264</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1545041250264</updated>
+      <workItem from="1545041257579" duration="1980000" />
+      <workItem from="1545637443285" duration="21882000" />
+      <workItem from="1545738192304" duration="3403000" />
+      <workItem from="1545788574075" duration="5129000" />
+    </task>
+    <task id="LOCAL-00001" summary="提交测试文件">
+      <created>1545041761481</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1545041761481</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="32394000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49833888" visible="true" weight="0.26126608" />
+      <window_info id="Structure" order="1" sideWeight="0.5016611" side_tool="true" weight="0.25751072" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" sideWeight="0.5016611" side_tool="true" weight="0.25751072" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32924107" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.34263393" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39955357" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" weight="0.6785714" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" sideWeight="0.49946353" visible="true" weight="0.328125" />
+      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.5005365" side_tool="true" weight="0.328125" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.328125" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Theme Preview" order="4" />
+      <window_info anchor="right" id="Maven" order="5" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Database" order="8" weight="0.3299356" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list />
+          </value>
+        </entry>
+        <entry key="User">
+          <value>
+            <list />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="提交测试文件" />
+    <option name="LAST_COMMIT_MESSAGE" value="提交测试文件" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/xmg/map/ListPerformance2.java</url>
+          <line>37</line>
+          <properties />
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="513">
+          <caret line="19" column="10" selection-start-line="19" selection-start-column="10" selection-end-line="19" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_171/src.zip!/java/util/Calendar.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="349">
+          <caret line="3404" column="33" lean-forward="true" selection-start-line="3404" selection-start-column="33" selection-end-line="3404" selection-end-column="33" />
+          <folding>
+            <element signature="e#111238#111239#0" expanded="true" />
+            <element signature="e#111300#111301#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_171/src.zip!/java/lang/Comparable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="135" column="18" lean-forward="true" selection-start-line="135" selection-start-column="18" selection-end-line="135" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_171/src.zip!/com/sun/corba/se/impl/io/ObjectStreamField.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="196">
+          <caret line="206" column="31" lean-forward="true" selection-start-line="206" selection-start-column="31" selection-end-line="206" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_171/src.zip!/java/lang/String.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="709">
+          <caret line="1168" column="26" selection-start-line="1168" selection-start-column="22" selection-end-line="1168" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_171/src.zip!/javax/annotation/Generated.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="183">
+          <caret line="52" column="18" selection-start-line="52" selection-start-column="18" selection-end-line="52" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/xmg/util/Generator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="81">
+          <caret line="3" column="6" selection-start-line="3" selection-start-column="6" selection-end-line="3" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_171/src.zip!/java/util/Random.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="301">
+          <caret line="390" column="26" lean-forward="true" selection-start-line="390" selection-start-column="26" selection-end-line="390" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/xmg/map/CountingStringList.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/xmg/util/CountingGenerator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="27">
+          <caret line="19" column="21" selection-start-line="19" selection-start-column="21" selection-end-line="19" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/xmg/util/Generated.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="8" column="34" lean-forward="true" selection-start-line="8" selection-start-column="34" selection-end-line="8" selection-end-column="34" />
+          <folding>
+            <element signature="e#106#107#0" expanded="true" />
+            <element signature="e#176#177#0" expanded="true" />
+            <element signature="e#209#239#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/xtest/map/MapTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_171/src.zip!/java/util/Arrays.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="183">
+          <caret line="3207" column="28" selection-start-line="3207" selection-start-column="28" selection-end-line="3207" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/xmg/map/Individual.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="2" column="41" selection-start-line="2" selection-start-column="41" selection-end-line="2" selection-end-column="41" />
+          <folding>
+            <element signature="e#136#137#0" expanded="true" />
+            <element signature="e#160#161#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/xmg/map/FieldTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="243">
+          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/xmg/util/CollectionData.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="8" column="5" lean-forward="true" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/xtest/list/TestParm.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/xmg/list/StringList.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/xmg/list/StringContainter.java" />
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_171/src.zip!/java/util/ArrayList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="6372">
+          <caret line="264" column="47" selection-start-line="264" selection-start-column="36" selection-end-line="264" selection-end-column="47" />
+          <folding>
+            <element signature="e#6283#6284#0" expanded="true" />
+            <element signature="e#6351#6352#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/xtest/list/StringList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="675">
+          <caret line="31" column="5" selection-start-line="7" selection-start-column="7" selection-end-line="31" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#253#254#0" expanded="true" />
+            <element signature="e#300#301#0" expanded="true" />
+            <element signature="e#335#336#0" expanded="true" />
+            <element signature="e#375#376#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/xmg/map/ListPerformance.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="810">
+          <caret line="35" column="11" selection-start-line="35" selection-start-column="11" selection-end-line="35" selection-end-column="11" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/xmg/map/E31_StringContainer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1782">
+          <caret line="71" column="5" selection-start-line="71" selection-start-column="5" selection-end-line="71" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/xmg/map/TestXmgList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="5" column="21" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/xmg/list/E31_StringContainer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="371">
+          <caret line="35" column="22" selection-start-line="35" selection-start-column="22" selection-end-line="35" selection-end-column="22" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/xmg/util/RandomBounds.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="20" column="31" selection-start-line="20" selection-start-column="31" selection-end-line="20" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/xmg/map/ListPerformance2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="251">
+          <caret line="80" column="67" lean-forward="true" selection-start-line="80" selection-start-column="67" selection-end-line="80" selection-end-column="67" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/xmg/map/TestParm.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="224">
+          <caret line="10" column="20" lean-forward="true" selection-start-line="10" selection-start-column="20" selection-end-line="10" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/xmg/map/SetPerformance2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="251">
+          <caret line="63" column="20" lean-forward="true" selection-start-line="63" selection-start-column="20" selection-end-line="63" selection-end-column="20" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/xtest/set/SetTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="305">
+          <caret line="18" column="17" selection-start-line="18" selection-start-column="17" selection-end-line="18" selection-end-column="17" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/xmg/map/SetPerformance.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="278">
+          <caret line="56" column="5" lean-forward="true" selection-start-line="51" selection-start-column="4" selection-end-line="56" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/xtest/list/StringContainter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="181">
+          <caret line="28" column="13" selection-start-line="28" selection-start-column="13" selection-end-line="28" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/xmg/map/Tester.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="6" column="37" lean-forward="true" selection-start-line="6" selection-start-column="37" selection-end-line="6" selection-end-column="37" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/xmg/map/MapPerformance.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="885">
+          <caret line="58" lean-forward="true" selection-start-line="58" selection-end-line="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/xmg/map/SimpleJava.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="27">
+          <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/xmg/map/SimpleHashMap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="31" lean-forward="true" selection-start-line="31" selection-end-line="31" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>basejava</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: junit:junit:4.12</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
