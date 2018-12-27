@@ -1,92 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a04b0ca1-23d2-4b45-8eb0-ba990073c570" name="Default Changelist" comment="提交测试文件">
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/xmg/list/E31_StringContainer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/xmg/map/E31_StringContainer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/xmg/map/FieldTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/xmg/map/Individual.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/xmg/map/ListPerformance.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/xmg/map/ListPerformance2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/xmg/map/MapPerformance.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/xmg/map/SetPerformance.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/xmg/map/SetPerformance2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/xmg/map/SimpleHashMap.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/xmg/map/TestParm.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/xmg/map/TestXmgList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/xmg/map/Tester.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/xmg/util/CollectionData.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/xmg/util/CountingGenerator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/xmg/util/Generated.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/xmg/util/Generator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/xmg/util/RandomBounds.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/xtest/list/StringContainter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/xtest/list/StringList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/xtest/set/SetTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/META-INF/basejava.kotlin_module" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/xmg/list/E31_StringContainer.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/xmg/list/StringContainer.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/xmg/map/E31_StringContainer$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/xmg/map/E31_StringContainer$2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/xmg/map/E31_StringContainer.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/xmg/map/FieldTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/xmg/map/Individual.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/xmg/map/ListPerformance$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/xmg/map/ListPerformance$2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/xmg/map/ListPerformance.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/xmg/map/ListPerformance2$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/xmg/map/ListPerformance2$2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/xmg/map/ListPerformance2$3.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/xmg/map/ListPerformance2$4.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/xmg/map/ListPerformance2$5.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/xmg/map/ListPerformance2$6.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/xmg/map/ListPerformance2$ListTester.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/xmg/map/ListPerformance2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/xmg/map/MapPerformance$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/xmg/map/MapPerformance$2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/xmg/map/MapPerformance$3.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/xmg/map/MapPerformance.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/xmg/map/SetPerformance$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/xmg/map/SetPerformance$2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/xmg/map/SetPerformance$3.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/xmg/map/SetPerformance.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/xmg/map/SetPerformance2$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/xmg/map/SetPerformance2$2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/xmg/map/SetPerformance2$3.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/xmg/map/SetPerformance2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/xmg/map/SimpleHashMap.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/xmg/map/SimpleJava.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/xmg/map/StringContainer.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/xmg/map/TestParm.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/xmg/map/TestXmgList.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/xmg/map/Tester.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/xmg/util/CollectionData.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/xmg/util/CountingGenerator$Boolean.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/xmg/util/CountingGenerator$Byte.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/xmg/util/CountingGenerator$Character.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/xmg/util/CountingGenerator$Double.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/xmg/util/CountingGenerator$Float.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/xmg/util/CountingGenerator$Integer.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/xmg/util/CountingGenerator$Long.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/xmg/util/CountingGenerator$Short.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/xmg/util/CountingGenerator$String.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/xmg/util/CountingGenerator.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/xmg/util/Generated.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/xmg/util/Generator.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/xmg/util/RandomBounds.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/com/xtest/list/StringContainter.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/com/xtest/list/StringList.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/com/xtest/map/MapTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/com/xtest/set/SetTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/basejava.iml" beforeDir="false" afterPath="$PROJECT_DIR$/basejava.iml" afterDir="false" />
+    <list default="true" id="a04b0ca1-23d2-4b45-8eb0-ba990073c570" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/xmg/jscompile/Config.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/xmg/jscompile/ConfigUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/xmg/jscompile/IScriptEngine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/xmg/jscompile/JSMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/xmg/jscompile/JSScriptManagerImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/xmg/jscompile/SgConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/xmg/util/StringUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/sgserver.cfg.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/xmg/map/SimpleJava.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/xmg/map/SimpleJava.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xmg/map/MapPerformance$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/xmg/map/MapPerformance$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xmg/map/MapPerformance$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/xmg/map/MapPerformance$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xmg/map/MapPerformance$3.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/xmg/map/MapPerformance$3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xmg/map/SetPerformance$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/xmg/map/SetPerformance$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xmg/map/SetPerformance$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/xmg/map/SetPerformance$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xmg/map/SetPerformance$3.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/xmg/map/SetPerformance$3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xmg/map/SetPerformance2$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/xmg/map/SetPerformance2$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xmg/map/SetPerformance2$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/xmg/map/SetPerformance2$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/xmg/map/SetPerformance2$3.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/xmg/map/SetPerformance2$3.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -115,20 +49,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/xmg/map/SetPerformance.java">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/xmg/jscompile/JSMain.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="278">
-              <caret line="56" column="5" lean-forward="true" selection-start-line="51" selection-start-column="4" selection-end-line="56" selection-end-column="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/xmg/map/SetPerformance2.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="251">
-              <caret line="63" column="20" lean-forward="true" selection-start-line="63" selection-start-column="20" selection-end-line="63" selection-end-column="20" />
+            <state relative-caret-position="1021">
+              <caret line="43" lean-forward="true" selection-start-line="43" selection-end-line="43" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -137,10 +62,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/com/xtest/set/SetTest.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/xmg/jscompile/ConfigUtil.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="305">
-              <caret line="18" column="17" selection-start-line="18" selection-start-column="17" selection-end-line="18" selection-end-column="17" />
+            <state relative-caret-position="-398">
+              <caret line="24" column="10" selection-start-line="24" selection-start-column="10" selection-end-line="24" selection-end-column="10" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -149,78 +74,58 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/xmg/map/MapPerformance.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/xmg/jscompile/IScriptEngine.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="885">
-              <caret line="58" lean-forward="true" selection-start-line="58" selection-end-line="58" />
+            <state relative-caret-position="169">
+              <caret line="39" column="25" selection-start-line="39" selection-start-column="25" selection-end-line="39" selection-end-column="25" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/xmg/map/SimpleJava.java">
+        <entry file="jar://C:/Program Files/Java/jdk1.8.0_171/src.zip!/javax/script/ScriptEngineFactory.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="303">
+              <caret line="227" column="25" selection-start-line="227" selection-start-column="25" selection-end-line="227" selection-end-column="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/xmg/jscompile/JSScriptManagerImpl.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="169">
+              <caret line="70" column="18" selection-start-line="70" selection-start-column="18" selection-end-line="70" selection-end-column="18" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/resources/sgserver.cfg.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="27">
-              <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/xmg/map/SimpleHashMap.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="297">
-              <caret line="31" lean-forward="true" selection-start-line="31" selection-end-line="31" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+              <caret line="1" column="13" selection-start-line="1" selection-start-column="13" selection-end-line="1" selection-end-column="13" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/com/xtest/list/StringContainter.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="181">
-              <caret line="28" column="13" selection-start-line="28" selection-start-column="13" selection-end-line="28" selection-end-column="13" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/xmg/map/Tester.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/xmg/jscompile/SgConfig.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="162">
-              <caret line="6" column="37" lean-forward="true" selection-start-line="6" selection-start-column="37" selection-end-line="6" selection-end-column="37" />
+              <caret line="6" column="25" selection-start-line="6" selection-start-column="19" selection-end-line="6" selection-end-column="25" />
               <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/xmg/map/TestParm.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="224">
-              <caret line="10" column="20" lean-forward="true" selection-start-line="10" selection-start-column="20" selection-end-line="10" selection-end-column="20" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/xmg/map/ListPerformance2.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="251">
-              <caret line="80" column="67" lean-forward="true" selection-start-line="80" selection-start-column="67" selection-end-line="80" selection-end-column="67" />
-              <folding>
-                <element signature="imports" expanded="true" />
+                <element signature="e#235#236#0" expanded="true" />
+                <element signature="e#267#268#0" expanded="true" />
+                <element signature="e#314#315#0" expanded="true" />
+                <element signature="e#356#357#0" expanded="true" />
+                <element signature="e#389#390#0" expanded="true" />
+                <element signature="e#418#419#0" expanded="true" />
+                <element signature="e#462#463#0" expanded="true" />
+                <element signature="e#498#499#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -241,9 +146,21 @@
       <find>compareTo</find>
       <find>toArray</find>
       <find>add</find>
+      <find>C30A</find>
+      <find>crossS</find>
+      <find>ignoreSign</find>
+      <find>LogConfig</find>
+      <find>logServerIp</find>
+      <find>va</find>
+      <find>turnOn</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="xmg" />
+      </list>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
@@ -279,12 +196,25 @@
         <option value="$PROJECT_DIR$/src/test/java/com/xtest/set/SetTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/xmg/map/Tester.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/xmg/map/MapPerformance.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/xmg/jscompile/IScriptEngine.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/xmg/jscompile/JSScriptManagerImpl.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/xmg/jscompile/Config.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/xmg/jscompile/ConfigUtil.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/xmg/util/StringUtils.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/xmg/jscompile/GameServer.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/xmg/jscompile/GameServerConfig.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/xmg/jscompile/ServerConfig.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/game_server.cfg.js" />
+        <option value="$PROJECT_DIR$/src/main/java/com/xmg/jscompile/SgConfig.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/sgserver.cfg.js" />
+        <option value="$PROJECT_DIR$/src/main/java/com/xmg/jscompile/JSMain.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="260" />
-    <option name="y" value="114" />
+    <option name="x" value="277" />
+    <option name="y" value="186" />
     <option name="width" value="1400" />
     <option name="height" value="1000" />
   </component>
@@ -297,6 +227,7 @@
     </navigator>
     <panes>
       <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -313,34 +244,60 @@
               <item name="basejava" type="b2602c69:ProjectViewProjectNode" />
               <item name="basejava" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="basejava" type="b2602c69:ProjectViewProjectNode" />
               <item name="basejava" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="basejava" type="b2602c69:ProjectViewProjectNode" />
               <item name="basejava" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="xtest" type="462c0819:PsiDirectoryNode" />
+              <item name="xmg" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="basejava" type="b2602c69:ProjectViewProjectNode" />
+              <item name="basejava" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="xmg" type="462c0819:PsiDirectoryNode" />
+              <item name="jscompile" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="basejava" type="b2602c69:ProjectViewProjectNode" />
+              <item name="basejava" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="basejava" type="b2602c69:ProjectViewProjectNode" />
+              <item name="basejava" type="462c0819:PsiDirectoryNode" />
+              <item name="target" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="basejava" type="b2602c69:ProjectViewProjectNode" />
+              <item name="basejava" type="462c0819:PsiDirectoryNode" />
+              <item name="target" type="462c0819:PsiDirectoryNode" />
+              <item name="classes" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1545793783312" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1545898061100" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -348,17 +305,19 @@
     <property name="project.structure.side.proportion" value="0.2" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\work\idea\basejava\src\main\java\com\xmg\map" />
-      <recent name="D:\work\idea\basejava\src\main\java\com\xmg\list" />
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.xmg.map" />
+      <recent name="com.xmg.util" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="com.xmg.map" />
       <recent name="com.xtest.list" />
     </key>
-    <key name="CreateClassDialog.RecentsKey">
-      <recent name="com.xmg.map" />
-      <recent name="com.xmg.util" />
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\work\idea\basejava\src\main\resources" />
+      <recent name="D:\work\idea\basejava\src\main\java\com\xmg\jscompile" />
+      <recent name="D:\work\idea\basejava\src\main\java\com\xmg\map" />
+      <recent name="D:\work\idea\basejava\src\main\java\com\xmg\list" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -373,13 +332,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.MapPerformance">
-    <configuration name="MapPerformance" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.xmg.map.MapPerformance" />
+  <component name="RunManager" selected="Application.JSMain">
+    <configuration name="JSMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.xmg.jscompile.JSMain" />
       <module name="basejava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.xmg.map.*" />
+          <option name="PATTERN" value="com.xmg.jscompile.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -387,8 +346,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SetPerformance" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.xmg.map.SetPerformance" />
+    <configuration name="MapPerformance" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.xmg.map.MapPerformance" />
       <module name="basejava" />
       <extension name="coverage">
         <pattern>
@@ -441,11 +400,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.JSMain" />
         <item itemvalue="Application.MapPerformance" />
         <item itemvalue="Application.SetTest" />
         <item itemvalue="Application.SetPerformance2" />
         <item itemvalue="Application.Tester" />
-        <item itemvalue="Application.SetPerformance" />
       </list>
     </recent_temporary>
   </component>
@@ -462,7 +421,8 @@
       <workItem from="1545041257579" duration="1980000" />
       <workItem from="1545637443285" duration="21882000" />
       <workItem from="1545738192304" duration="3403000" />
-      <workItem from="1545788574075" duration="5129000" />
+      <workItem from="1545788574075" duration="6004000" />
+      <workItem from="1545876102379" duration="14806000" />
     </task>
     <task id="LOCAL-00001" summary="提交测试文件">
       <created>1545041761481</created>
@@ -471,11 +431,18 @@
       <option name="project" value="LOCAL" />
       <updated>1545041761481</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="集合测试性能">
+      <created>1545793819785</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1545793819785</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="32394000" />
+    <option name="totallyTimeSpent" value="48075000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -488,8 +455,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49833888" visible="true" weight="0.26126608" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49776787" visible="true" weight="0.21405579" />
       <window_info id="Structure" order="1" sideWeight="0.5016611" side_tool="true" weight="0.25751072" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -498,26 +466,26 @@
       <window_info id="Favorites" order="6" sideWeight="0.5016611" side_tool="true" weight="0.25751072" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32924107" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.34263393" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.39955357" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.35825893" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.21316965" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32924107" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" weight="0.6785714" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="10" sideWeight="0.49946353" visible="true" weight="0.328125" />
+      <window_info anchor="bottom" id="Terminal" order="10" sideWeight="0.49892703" weight="0.328125" />
       <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.5005365" side_tool="true" weight="0.328125" />
-      <window_info anchor="bottom" id="Messages" order="12" weight="0.328125" />
+      <window_info anchor="bottom" id="Messages" order="12" sideWeight="0.49946353" weight="0.328125" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="right" id="Theme Preview" order="4" />
-      <window_info anchor="right" id="Maven" order="5" />
-      <window_info anchor="right" id="Capture Analysis" order="6" />
-      <window_info anchor="right" id="Palette&#9;" order="7" />
-      <window_info anchor="right" id="Database" order="8" weight="0.3299356" />
+      <window_info anchor="right" id="Palette" order="2" />
+      <window_info anchor="right" id="Theme Preview" order="3" />
+      <window_info anchor="right" id="Maven" order="4" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+      <window_info anchor="right" id="Database" order="7" weight="0.3299356" />
+      <window_info anchor="right" content_ui="combo" x="666" y="558" width="932" height="290" id="Hierarchy" order="8" sideWeight="0.50223213" side_tool="true" visible="true" weight="0.18991417" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -565,7 +533,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="提交测试文件" />
-    <option name="LAST_COMMIT_MESSAGE" value="提交测试文件" />
+    <MESSAGE value="集合测试性能" />
+    <option name="LAST_COMMIT_MESSAGE" value="集合测试性能" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -580,45 +549,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="513">
-          <caret line="19" column="10" selection-start-line="19" selection-start-column="10" selection-end-line="19" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_171/src.zip!/java/util/Calendar.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="349">
-          <caret line="3404" column="33" lean-forward="true" selection-start-line="3404" selection-start-column="33" selection-end-line="3404" selection-end-column="33" />
-          <folding>
-            <element signature="e#111238#111239#0" expanded="true" />
-            <element signature="e#111300#111301#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_171/src.zip!/java/lang/Comparable.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="304">
-          <caret line="135" column="18" lean-forward="true" selection-start-line="135" selection-start-column="18" selection-end-line="135" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_171/src.zip!/com/sun/corba/se/impl/io/ObjectStreamField.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="196">
-          <caret line="206" column="31" lean-forward="true" selection-start-line="206" selection-start-column="31" selection-end-line="206" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_171/src.zip!/java/lang/String.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="709">
-          <caret line="1168" column="26" selection-start-line="1168" selection-start-column="22" selection-end-line="1168" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://C:/Program Files/Java/jdk1.8.0_171/src.zip!/javax/annotation/Generated.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="183">
@@ -768,27 +698,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/xmg/map/ListPerformance2.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/xmg/map/SetPerformance.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="251">
-          <caret line="80" column="67" lean-forward="true" selection-start-line="80" selection-start-column="67" selection-end-line="80" selection-end-column="67" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/xmg/map/TestParm.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="224">
-          <caret line="10" column="20" lean-forward="true" selection-start-line="10" selection-start-column="20" selection-end-line="10" selection-end-column="20" />
+        <state relative-caret-position="1512">
+          <caret line="56" column="5" selection-start-line="51" selection-start-column="4" selection-end-line="56" selection-end-column="5" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/xmg/map/SetPerformance2.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="251">
-          <caret line="63" column="20" lean-forward="true" selection-start-line="63" selection-start-column="20" selection-end-line="63" selection-end-column="20" />
+        <state relative-caret-position="1620">
+          <caret line="63" column="20" selection-start-line="63" selection-start-column="20" selection-end-line="63" selection-end-column="20" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -797,7 +717,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/com/xtest/set/SetTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="305">
+        <state relative-caret-position="405">
           <caret line="18" column="17" selection-start-line="18" selection-start-column="17" selection-end-line="18" selection-end-column="17" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -805,16 +725,26 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/xmg/map/SetPerformance.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/xmg/map/MapPerformance.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="278">
-          <caret line="56" column="5" lean-forward="true" selection-start-line="51" selection-start-column="4" selection-end-line="56" selection-end-column="5" />
+        <state relative-caret-position="1566">
+          <caret line="58" selection-start-line="58" selection-end-line="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/xmg/map/SimpleJava.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="513">
+          <caret line="22" selection-start-line="22" selection-end-line="22" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/com/xtest/list/StringContainter.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="181">
+        <state relative-caret-position="621">
           <caret line="28" column="13" selection-start-line="28" selection-start-column="13" selection-end-line="28" selection-end-column="13" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -824,25 +754,25 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/xmg/map/Tester.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="6" column="37" lean-forward="true" selection-start-line="6" selection-start-column="37" selection-end-line="6" selection-end-column="37" />
+        <state relative-caret-position="135">
+          <caret line="6" column="37" selection-start-line="6" selection-start-column="37" selection-end-line="6" selection-end-column="37" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/xmg/map/MapPerformance.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/xmg/map/TestParm.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="885">
-          <caret line="58" lean-forward="true" selection-start-line="58" selection-end-line="58" />
+        <state relative-caret-position="270">
+          <caret line="10" column="20" selection-start-line="10" selection-start-column="20" selection-end-line="10" selection-end-column="20" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/xmg/map/SimpleJava.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/xmg/map/ListPerformance2.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="27">
-          <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
+        <state relative-caret-position="2025">
+          <caret line="80" column="67" selection-start-line="80" selection-start-column="67" selection-end-line="80" selection-end-column="67" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -851,8 +781,697 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/xmg/map/SimpleHashMap.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="297">
-          <caret line="31" lean-forward="true" selection-start-line="31" selection-end-line="31" />
+        <state relative-caret-position="351">
+          <caret line="23" selection-start-line="23" selection-end-line="23" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="648">
+          <caret line="24" column="10" selection-start-line="24" selection-start-column="10" selection-end-line="24" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/xmg/util/StringUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="16" column="28" selection-start-line="16" selection-start-column="28" selection-end-line="16" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/xmg/jscompile/server.cfg.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_171/src.zip!/java/lang/ClassLoader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-32">
+          <caret line="1092" column="31" lean-forward="true" selection-start-line="1092" selection-start-column="31" selection-end-line="1092" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/xmg/jscompile/ServerConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="166">
+          <caret line="324" column="16" selection-start-line="324" selection-start-column="16" selection-end-line="324" selection-end-column="16" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#427#428#0" expanded="true" />
+            <element signature="e#469#470#0" expanded="true" />
+            <element signature="e#510#511#0" expanded="true" />
+            <element signature="e#554#555#0" expanded="true" />
+            <element signature="e#612#613#0" expanded="true" />
+            <element signature="e#666#667#0" expanded="true" />
+            <element signature="e#725#726#0" expanded="true" />
+            <element signature="e#783#784#0" expanded="true" />
+            <element signature="e#8618#8619#0" expanded="true" />
+            <element signature="e#8650#8651#0" expanded="true" />
+            <element signature="e#8037#8038#0" expanded="true" />
+            <element signature="e#8070#8071#0" expanded="true" />
+            <element signature="e#8119#8120#0" expanded="true" />
+            <element signature="e#8163#8164#0" expanded="true" />
+            <element signature="e#8202#8203#0" expanded="true" />
+            <element signature="e#8237#8238#0" expanded="true" />
+            <element signature="e#8293#8294#0" expanded="true" />
+            <element signature="e#8341#8342#0" expanded="true" />
+            <element signature="e#8388#8389#0" expanded="true" />
+            <element signature="e#8431#8432#0" expanded="true" />
+            <element signature="e#8602#8603#0" expanded="true" />
+            <element signature="e#8633#8634#0" expanded="true" />
+            <element signature="e#8681#8682#0" expanded="true" />
+            <element signature="e#8721#8722#0" expanded="true" />
+            <element signature="e#8852#8853#0" expanded="true" />
+            <element signature="e#8885#8886#0" expanded="true" />
+            <element signature="e#8938#8939#0" expanded="true" />
+            <element signature="e#8982#8983#0" expanded="true" />
+            <element signature="e#9027#9028#0" expanded="true" />
+            <element signature="e#9068#9069#0" expanded="true" />
+            <element signature="e#9136#9137#0" expanded="true" />
+            <element signature="e#9196#9197#0" expanded="true" />
+            <element signature="e#9237#9238#0" expanded="true" />
+            <element signature="e#9274#9275#0" expanded="true" />
+            <element signature="e#9334#9335#0" expanded="true" />
+            <element signature="e#9386#9387#0" expanded="true" />
+            <element signature="e#9425#9426#0" expanded="true" />
+            <element signature="e#9460#9461#0" expanded="true" />
+            <element signature="e#9516#9517#0" expanded="true" />
+            <element signature="e#9564#9565#0" expanded="true" />
+            <element signature="e#9604#9605#0" expanded="true" />
+            <element signature="e#9640#9641#0" expanded="true" />
+            <element signature="e#9698#9699#0" expanded="true" />
+            <element signature="e#9748#9749#0" expanded="true" />
+            <element signature="e#9804#9805#0" expanded="true" />
+            <element signature="e#9859#9860#0" expanded="true" />
+            <element signature="e#10087#10088#0" expanded="true" />
+            <element signature="e#10117#10118#0" expanded="true" />
+            <element signature="e#10163#10164#0" expanded="true" />
+            <element signature="e#10201#10202#0" expanded="true" />
+            <element signature="e#10243#10244#0" expanded="true" />
+            <element signature="e#10281#10282#0" expanded="true" />
+            <element signature="e#10343#10344#0" expanded="true" />
+            <element signature="e#10397#10398#0" expanded="true" />
+            <element signature="e#10441#10442#0" expanded="true" />
+            <element signature="e#10481#10482#0" expanded="true" />
+            <element signature="e#10547#10548#0" expanded="true" />
+            <element signature="e#10605#10606#0" expanded="true" />
+            <element signature="e#10650#10651#0" expanded="true" />
+            <element signature="e#10691#10692#0" expanded="true" />
+            <element signature="e#10759#10760#0" expanded="true" />
+            <element signature="e#10819#10820#0" expanded="true" />
+            <element signature="e#10856#10857#0" expanded="true" />
+            <element signature="e#10889#10890#0" expanded="true" />
+            <element signature="e#10941#10942#0" expanded="true" />
+            <element signature="e#10985#10986#0" expanded="true" />
+            <element signature="e#11024#11025#0" expanded="true" />
+            <element signature="e#11059#11060#0" expanded="true" />
+            <element signature="e#11115#11116#0" expanded="true" />
+            <element signature="e#11163#11164#0" expanded="true" />
+            <element signature="e#11210#11211#0" expanded="true" />
+            <element signature="e#11253#11254#0" expanded="true" />
+            <element signature="e#11428#11429#0" expanded="true" />
+            <element signature="e#11463#11464#0" expanded="true" />
+            <element signature="e#11519#11520#0" expanded="true" />
+            <element signature="e#11567#11568#0" expanded="true" />
+            <element signature="e#11614#11615#0" expanded="true" />
+            <element signature="e#11657#11658#0" expanded="true" />
+            <element signature="e#11832#11833#0" expanded="true" />
+            <element signature="e#11867#11868#0" expanded="true" />
+            <element signature="e#11923#11924#0" expanded="true" />
+            <element signature="e#11971#11972#0" expanded="true" />
+            <element signature="e#12010#12011#0" expanded="true" />
+            <element signature="e#12045#12046#0" expanded="true" />
+            <element signature="e#12101#12102#0" expanded="true" />
+            <element signature="e#12149#12150#0" expanded="true" />
+            <element signature="e#12185#12186#0" expanded="true" />
+            <element signature="e#12217#12218#0" expanded="true" />
+            <element signature="e#12267#12268#0" expanded="true" />
+            <element signature="e#12309#12310#0" expanded="true" />
+            <element signature="e#12354#12355#0" expanded="true" />
+            <element signature="e#12390#12391#0" expanded="true" />
+            <element signature="e#12434#12435#0" expanded="true" />
+            <element signature="e#12474#12475#0" expanded="true" />
+            <element signature="e#12540#12541#0" expanded="true" />
+            <element signature="e#12598#12599#0" expanded="true" />
+            <element signature="e#12640#12641#0" expanded="true" />
+            <element signature="e#12678#12679#0" expanded="true" />
+            <element signature="e#12740#12741#0" expanded="true" />
+            <element signature="e#12794#12795#0" expanded="true" />
+            <element signature="e#12836#12837#0" expanded="true" />
+            <element signature="e#12874#12875#0" expanded="true" />
+            <element signature="e#12936#12937#0" expanded="true" />
+            <element signature="e#12990#12991#0" expanded="true" />
+            <element signature="e#13028#13029#0" expanded="true" />
+            <element signature="e#13062#13063#0" expanded="true" />
+            <element signature="e#13116#13117#0" expanded="true" />
+            <element signature="e#13162#13163#0" expanded="true" />
+            <element signature="e#13198#13199#0" expanded="true" />
+            <element signature="e#13230#13231#0" expanded="true" />
+            <element signature="e#13280#13281#0" expanded="true" />
+            <element signature="e#13322#13323#0" expanded="true" />
+            <element signature="e#13352#13353#0" expanded="true" />
+            <element signature="e#13381#13382#0" expanded="true" />
+            <element signature="e#13422#13423#0" expanded="true" />
+            <element signature="e#13458#13459#0" expanded="true" />
+            <element signature="e#13492#13493#0" expanded="true" />
+            <element signature="e#13525#13526#0" expanded="true" />
+            <element signature="e#13574#13575#0" expanded="true" />
+            <element signature="e#13618#13619#0" expanded="true" />
+            <element signature="e#13656#13657#0" expanded="true" />
+            <element signature="e#13690#13691#0" expanded="true" />
+            <element signature="e#13744#13745#0" expanded="true" />
+            <element signature="e#13790#13791#0" expanded="true" />
+            <element signature="e#13832#13833#0" expanded="true" />
+            <element signature="e#13870#13871#0" expanded="true" />
+            <element signature="e#13932#13933#0" expanded="true" />
+            <element signature="e#13986#13987#0" expanded="true" />
+            <element signature="e#14023#14024#0" expanded="true" />
+            <element signature="e#14056#14057#0" expanded="true" />
+            <element signature="e#14108#14109#0" expanded="true" />
+            <element signature="e#14152#14153#0" expanded="true" />
+            <element signature="e#14187#14188#0" expanded="true" />
+            <element signature="e#14218#14219#0" expanded="true" />
+            <element signature="e#14266#14267#0" expanded="true" />
+            <element signature="e#14306#14307#0" expanded="true" />
+            <element signature="e#14344#14345#0" expanded="true" />
+            <element signature="e#14378#14379#0" expanded="true" />
+            <element signature="e#14432#14433#0" expanded="true" />
+            <element signature="e#14478#14479#0" expanded="true" />
+            <element signature="e#14518#14519#0" expanded="true" />
+            <element signature="e#14554#14555#0" expanded="true" />
+            <element signature="e#14612#14613#0" expanded="true" />
+            <element signature="e#14662#14663#0" expanded="true" />
+            <element signature="e#14703#14704#0" expanded="true" />
+            <element signature="e#14740#14741#0" expanded="true" />
+            <element signature="e#14800#14801#0" expanded="true" />
+            <element signature="e#14852#14853#0" expanded="true" />
+            <element signature="e#14890#14891#0" expanded="true" />
+            <element signature="e#14924#14925#0" expanded="true" />
+            <element signature="e#14978#14979#0" expanded="true" />
+            <element signature="e#15024#15025#0" expanded="true" />
+            <element signature="e#15068#15069#0" expanded="true" />
+            <element signature="e#15108#15109#0" expanded="true" />
+            <element signature="e#15174#15175#0" expanded="true" />
+            <element signature="e#15232#15233#0" expanded="true" />
+            <element signature="e#15265#15266#0" expanded="true" />
+            <element signature="e#15294#15295#0" expanded="true" />
+            <element signature="e#15338#15339#0" expanded="true" />
+            <element signature="e#15374#15375#0" expanded="true" />
+            <element signature="e#15410#15411#0" expanded="true" />
+            <element signature="e#15442#15443#0" expanded="true" />
+            <element signature="e#15492#15493#0" expanded="true" />
+            <element signature="e#15534#15535#0" expanded="true" />
+            <element signature="e#15573#15574#0" expanded="true" />
+            <element signature="e#15608#15609#0" expanded="true" />
+            <element signature="e#15664#15665#0" expanded="true" />
+            <element signature="e#15712#15713#0" expanded="true" />
+            <element signature="e#15752#15753#0" expanded="true" />
+            <element signature="e#15788#15789#0" expanded="true" />
+            <element signature="e#15846#15847#0" expanded="true" />
+            <element signature="e#15896#15897#0" expanded="true" />
+            <element signature="e#15936#15937#0" expanded="true" />
+            <element signature="e#15972#15973#0" expanded="true" />
+            <element signature="e#16030#16031#0" expanded="true" />
+            <element signature="e#16080#16081#0" expanded="true" />
+            <element signature="e#16124#16125#0" expanded="true" />
+            <element signature="e#16164#16165#0" expanded="true" />
+            <element signature="e#16230#16231#0" expanded="true" />
+            <element signature="e#16288#16289#0" expanded="true" />
+            <element signature="e#16328#16329#0" expanded="true" />
+            <element signature="e#16364#16365#0" expanded="true" />
+            <element signature="e#16422#16423#0" expanded="true" />
+            <element signature="e#16472#16473#0" expanded="true" />
+            <element signature="e#16513#16514#0" expanded="true" />
+            <element signature="e#16550#16551#0" expanded="true" />
+            <element signature="e#16610#16611#0" expanded="true" />
+            <element signature="e#16662#16663#0" expanded="true" />
+            <element signature="e#16700#16701#0" expanded="true" />
+            <element signature="e#16734#16735#0" expanded="true" />
+            <element signature="e#16788#16789#0" expanded="true" />
+            <element signature="e#16834#16835#0" expanded="true" />
+            <element signature="e#16878#16879#0" expanded="true" />
+            <element signature="e#16918#16919#0" expanded="true" />
+            <element signature="e#16984#16985#0" expanded="true" />
+            <element signature="e#17042#17043#0" expanded="true" />
+            <element signature="e#17084#17085#0" expanded="true" />
+            <element signature="e#17122#17123#0" expanded="true" />
+            <element signature="e#17184#17185#0" expanded="true" />
+            <element signature="e#17238#17239#0" expanded="true" />
+            <element signature="e#17282#17283#0" expanded="true" />
+            <element signature="e#17322#17323#0" expanded="true" />
+            <element signature="e#17388#17389#0" expanded="true" />
+            <element signature="e#17446#17447#0" expanded="true" />
+            <element signature="e#17484#17485#0" expanded="true" />
+            <element signature="e#17518#17519#0" expanded="true" />
+            <element signature="e#17572#17573#0" expanded="true" />
+            <element signature="e#17618#17619#0" expanded="true" />
+            <element signature="e#17656#17657#0" expanded="true" />
+            <element signature="e#17690#17691#0" expanded="true" />
+            <element signature="e#17744#17745#0" expanded="true" />
+            <element signature="e#17790#17791#0" expanded="true" />
+            <element signature="e#17830#17831#0" expanded="true" />
+            <element signature="e#17866#17867#0" expanded="true" />
+            <element signature="e#17924#17925#0" expanded="true" />
+            <element signature="e#17974#17975#0" expanded="true" />
+            <element signature="e#18018#18019#0" expanded="true" />
+            <element signature="e#18058#18059#0" expanded="true" />
+            <element signature="e#18124#18125#0" expanded="true" />
+            <element signature="e#18182#18183#0" expanded="true" />
+            <element signature="e#18226#18227#0" expanded="true" />
+            <element signature="e#18266#18267#0" expanded="true" />
+            <element signature="e#18332#18333#0" expanded="true" />
+            <element signature="e#18390#18391#0" expanded="true" />
+            <element signature="e#18434#18435#0" expanded="true" />
+            <element signature="e#18474#18475#0" expanded="true" />
+            <element signature="e#18540#18541#0" expanded="true" />
+            <element signature="e#18598#18599#0" expanded="true" />
+            <element signature="e#18641#18642#0" expanded="true" />
+            <element signature="e#18680#18681#0" expanded="true" />
+            <element signature="e#18744#18745#0" expanded="true" />
+            <element signature="e#18800#18801#0" expanded="true" />
+            <element signature="e#18850#18851#0" expanded="true" />
+            <element signature="e#18898#18899#0" expanded="true" />
+            <element signature="e#19098#19099#0" expanded="true" />
+            <element signature="e#19139#19140#0" expanded="true" />
+            <element signature="e#19207#19208#0" expanded="true" />
+            <element signature="e#19267#19268#0" expanded="true" />
+            <element signature="e#19304#19305#0" expanded="true" />
+            <element signature="e#19337#19338#0" expanded="true" />
+            <element signature="e#19389#19390#0" expanded="true" />
+            <element signature="e#19433#19434#0" expanded="true" />
+            <element signature="e#19474#19475#0" expanded="true" />
+            <element signature="e#19511#19512#0" expanded="true" />
+            <element signature="e#19571#19572#0" expanded="true" />
+            <element signature="e#19623#19624#0" expanded="true" />
+            <element signature="e#19667#19668#0" expanded="true" />
+            <element signature="e#19707#19708#0" expanded="true" />
+            <element signature="e#19773#19774#0" expanded="true" />
+            <element signature="e#19831#19832#0" expanded="true" />
+            <element signature="e#19867#19868#0" expanded="true" />
+            <element signature="e#19899#19900#0" expanded="true" />
+            <element signature="e#19949#19950#0" expanded="true" />
+            <element signature="e#19991#19992#0" expanded="true" />
+            <element signature="e#20027#20028#0" expanded="true" />
+            <element signature="e#20059#20060#0" expanded="true" />
+            <element signature="e#20109#20110#0" expanded="true" />
+            <element signature="e#20151#20152#0" expanded="true" />
+            <element signature="e#20193#20194#0" expanded="true" />
+            <element signature="e#20231#20232#0" expanded="true" />
+            <element signature="e#20293#20294#0" expanded="true" />
+            <element signature="e#20347#20348#0" expanded="true" />
+            <element signature="e#20384#20385#0" expanded="true" />
+            <element signature="e#20417#20418#0" expanded="true" />
+            <element signature="e#20469#20470#0" expanded="true" />
+            <element signature="e#20513#20514#0" expanded="true" />
+            <element signature="e#20548#20549#0" expanded="true" />
+            <element signature="e#20579#20580#0" expanded="true" />
+            <element signature="e#20627#20628#0" expanded="true" />
+            <element signature="e#20667#20668#0" expanded="true" />
+            <element signature="e#20711#20712#0" expanded="true" />
+            <element signature="e#20751#20752#0" expanded="true" />
+            <element signature="e#20817#20818#0" expanded="true" />
+            <element signature="e#20875#20876#0" expanded="true" />
+            <element signature="e#20912#20913#0" expanded="true" />
+            <element signature="e#20945#20946#0" expanded="true" />
+            <element signature="e#20997#20998#0" expanded="true" />
+            <element signature="e#21041#21042#0" expanded="true" />
+            <element signature="e#21081#21082#0" expanded="true" />
+            <element signature="e#21117#21118#0" expanded="true" />
+            <element signature="e#21175#21176#0" expanded="true" />
+            <element signature="e#21225#21226#0" expanded="true" />
+            <element signature="e#21265#21266#0" expanded="true" />
+            <element signature="e#21301#21302#0" expanded="true" />
+            <element signature="e#21359#21360#0" expanded="true" />
+            <element signature="e#21409#21410#0" expanded="true" />
+            <element signature="e#21450#21451#0" expanded="true" />
+            <element signature="e#21487#21488#0" expanded="true" />
+            <element signature="e#21547#21548#0" expanded="true" />
+            <element signature="e#21599#21600#0" expanded="true" />
+            <element signature="e#21639#21640#0" expanded="true" />
+            <element signature="e#21675#21676#0" expanded="true" />
+            <element signature="e#21733#21734#0" expanded="true" />
+            <element signature="e#21783#21784#0" expanded="true" />
+            <element signature="e#21823#21824#0" expanded="true" />
+            <element signature="e#21859#21860#0" expanded="true" />
+            <element signature="e#21917#21918#0" expanded="true" />
+            <element signature="e#21967#21968#0" expanded="true" />
+            <element signature="e#22008#22009#0" expanded="true" />
+            <element signature="e#22045#22046#0" expanded="true" />
+            <element signature="e#22105#22106#0" expanded="true" />
+            <element signature="e#22157#22158#0" expanded="true" />
+            <element signature="e#22205#22206#0" expanded="true" />
+            <element signature="e#22249#22250#0" expanded="true" />
+            <element signature="e#22425#22426#0" expanded="true" />
+            <element signature="e#22457#22458#0" expanded="true" />
+            <element signature="e#22507#22508#0" expanded="true" />
+            <element signature="e#22549#22550#0" expanded="true" />
+            <element signature="e#22590#22591#0" expanded="true" />
+            <element signature="e#22627#22628#0" expanded="true" />
+            <element signature="e#22688#22689#0" expanded="true" />
+            <element signature="e#22740#22741#0" expanded="true" />
+            <element signature="e#22781#22782#0" expanded="true" />
+            <element signature="e#22818#22819#0" expanded="true" />
+            <element signature="e#22878#22879#0" expanded="true" />
+            <element signature="e#22930#22931#0" expanded="true" />
+            <element signature="e#23212#23213#0" expanded="true" />
+            <element signature="e#23250#23251#0" expanded="true" />
+            <element signature="e#23869#23870#0" expanded="true" />
+            <element signature="e#23903#23904#0" expanded="true" />
+            <element signature="e#23957#23958#0" expanded="true" />
+            <element signature="e#24003#24004#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/xmg/jscompile/Config.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="243">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_171/src.zip!/java/lang/Class.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="166">
+          <caret line="2222" selection-start-line="2222" selection-end-line="2222" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/server.cfg.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="2" column="17" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/sgserver.cfg.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="27">
+          <caret line="1" column="13" selection-start-line="1" selection-start-column="13" selection-end-line="1" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/xmg/jscompile/GameServerConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="9" column="39" selection-start-line="9" selection-start-column="39" selection-end-line="9" selection-end-column="39" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#4137#4138#0" expanded="true" />
+            <element signature="e#4170#4171#0" expanded="true" />
+            <element signature="e#4223#4224#0" expanded="true" />
+            <element signature="e#4267#4268#0" expanded="true" />
+            <element signature="e#4302#4303#0" expanded="true" />
+            <element signature="e#4333#4334#0" expanded="true" />
+            <element signature="e#4381#4382#0" expanded="true" />
+            <element signature="e#4421#4422#0" expanded="true" />
+            <element signature="e#4548#4549#0" expanded="true" />
+            <element signature="e#4588#4589#0" expanded="true" />
+            <element signature="e#4651#4652#0" expanded="true" />
+            <element signature="e#4709#4710#0" expanded="true" />
+            <element signature="e#4925#4926#0" expanded="true" />
+            <element signature="e#4962#4963#0" expanded="true" />
+            <element signature="e#4994#4995#0" expanded="true" />
+            <element signature="e#5025#5026#0" expanded="true" />
+            <element signature="e#5076#5077#0" expanded="true" />
+            <element signature="e#5123#5124#0" expanded="true" />
+            <element signature="e#5170#5171#0" expanded="true" />
+            <element signature="e#5213#5214#0" expanded="true" />
+            <element signature="e#5260#5261#0" expanded="true" />
+            <element signature="e#5306#5307#0" expanded="true" />
+            <element signature="e#5406#5407#0" expanded="true" />
+            <element signature="e#5454#5455#0" expanded="true" />
+            <element signature="e#5490#5491#0" expanded="true" />
+            <element signature="e#5522#5523#0" expanded="true" />
+            <element signature="e#5653#5654#0" expanded="true" />
+            <element signature="e#5699#5700#0" expanded="true" />
+            <element signature="e#5746#5747#0" expanded="true" />
+            <element signature="e#5792#5793#0" expanded="true" />
+            <element signature="e#5837#5838#0" expanded="true" />
+            <element signature="e#5881#5882#0" expanded="true" />
+            <element signature="e#5922#5923#0" expanded="true" />
+            <element signature="e#5967#5968#0" expanded="true" />
+            <element signature="e#6055#6056#0" expanded="true" />
+            <element signature="e#6092#6093#0" expanded="true" />
+            <element signature="e#6130#6131#0" expanded="true" />
+            <element signature="e#6172#6173#0" expanded="true" />
+            <element signature="e#6211#6212#0" expanded="true" />
+            <element signature="e#6246#6247#0" expanded="true" />
+            <element signature="e#6964#6965#0" expanded="true" />
+            <element signature="e#6999#7000#0" expanded="true" />
+            <element signature="e#7036#7037#0" expanded="true" />
+            <element signature="e#7069#7070#0" expanded="true" />
+            <element signature="e#7112#7113#0" expanded="true" />
+            <element signature="e#7151#7152#0" expanded="true" />
+            <element signature="e#7236#7237#0" expanded="true" />
+            <element signature="e#7272#7273#0" expanded="true" />
+            <element signature="e#7309#7310#0" expanded="true" />
+            <element signature="e#7344#7345#0" expanded="true" />
+            <element signature="e#7646#7647#0" expanded="true" />
+            <element signature="e#7685#7686#0" expanded="true" />
+            <element signature="e#7725#7726#0" expanded="true" />
+            <element signature="e#7761#7762#0" expanded="true" />
+            <element signature="e#7938#7939#0" expanded="true" />
+            <element signature="e#7981#7982#0" expanded="true" />
+            <element signature="e#8020#8021#0" expanded="true" />
+            <element signature="e#8055#8056#0" expanded="true" />
+            <element signature="e#8098#8099#0" expanded="true" />
+            <element signature="e#8137#8138#0" expanded="true" />
+            <element signature="e#8197#8198#0" expanded="true" />
+            <element signature="e#8249#8250#0" expanded="true" />
+            <element signature="e#8294#8295#0" expanded="true" />
+            <element signature="e#8334#8335#0" expanded="true" />
+            <element signature="e#9115#9116#0" expanded="true" />
+            <element signature="e#9164#9165#0" expanded="true" />
+            <element signature="e#9214#9215#0" expanded="true" />
+            <element signature="e#9256#9257#0" expanded="true" />
+            <element signature="e#9819#9820#0" expanded="true" />
+            <element signature="e#9875#9876#0" expanded="true" />
+            <element signature="e#9934#9935#0" expanded="true" />
+            <element signature="e#9984#9985#0" expanded="true" />
+            <element signature="e#10035#10036#0" expanded="true" />
+            <element signature="e#10081#10082#0" expanded="true" />
+            <element signature="e#10227#10228#0" expanded="true" />
+            <element signature="e#10279#10280#0" expanded="true" />
+            <element signature="e#10327#10328#0" expanded="true" />
+            <element signature="e#10370#10371#0" expanded="true" />
+            <element signature="e#10426#10427#0" expanded="true" />
+            <element signature="e#10474#10475#0" expanded="true" />
+            <element signature="e#10613#10614#0" expanded="true" />
+            <element signature="e#10661#10662#0" expanded="true" />
+            <element signature="e#10713#10714#0" expanded="true" />
+            <element signature="e#10757#10758#0" expanded="true" />
+            <element signature="e#10821#10822#0" expanded="true" />
+            <element signature="e#10877#10878#0" expanded="true" />
+            <element signature="e#10995#10996#0" expanded="true" />
+            <element signature="e#11039#11040#0" expanded="true" />
+            <element signature="e#11139#11140#0" expanded="true" />
+            <element signature="e#11176#11177#0" expanded="true" />
+            <element signature="e#11233#11234#0" expanded="true" />
+            <element signature="e#11281#11282#0" expanded="true" />
+            <element signature="e#11346#11347#0" expanded="true" />
+            <element signature="e#11402#11403#0" expanded="true" />
+            <element signature="e#11456#11457#0" expanded="true" />
+            <element signature="e#11504#11505#0" expanded="true" />
+            <element signature="e#11559#11560#0" expanded="true" />
+            <element signature="e#11638#11639#0" expanded="true" />
+            <element signature="e#11848#11849#0" expanded="true" />
+            <element signature="e#11880#11881#0" expanded="true" />
+            <element signature="e#11927#11928#0" expanded="true" />
+            <element signature="e#11969#11970#0" expanded="true" />
+            <element signature="e#12012#12013#0" expanded="true" />
+            <element signature="e#12051#12052#0" expanded="true" />
+            <element signature="e#12306#12307#0" expanded="true" />
+            <element signature="e#12341#12342#0" expanded="true" />
+            <element signature="e#12398#12399#0" expanded="true" />
+            <element signature="e#12446#12447#0" expanded="true" />
+            <element signature="e#12490#12491#0" expanded="true" />
+            <element signature="e#12522#12523#0" expanded="true" />
+            <element signature="e#12633#12634#0" expanded="true" />
+            <element signature="e#12680#12681#0" expanded="true" />
+            <element signature="e#12719#12720#0" expanded="true" />
+            <element signature="e#12754#12755#0" expanded="true" />
+            <element signature="e#12811#12812#0" expanded="true" />
+            <element signature="e#12859#12860#0" expanded="true" />
+            <element signature="e#12903#12904#0" expanded="true" />
+            <element signature="e#12943#12944#0" expanded="true" />
+            <element signature="e#13010#13011#0" expanded="true" />
+            <element signature="e#13068#13069#0" expanded="true" />
+            <element signature="e#13107#13108#0" expanded="true" />
+            <element signature="e#13142#13143#0" expanded="true" />
+            <element signature="e#13429#13430#0" expanded="true" />
+            <element signature="e#13461#13462#0" expanded="true" />
+            <element signature="e#13502#13503#0" expanded="true" />
+            <element signature="e#13539#13540#0" expanded="true" />
+            <element signature="e#13599#13600#0" expanded="true" />
+            <element signature="e#13651#13652#0" expanded="true" />
+            <element signature="e#13690#13691#0" expanded="true" />
+            <element signature="e#13725#13726#0" expanded="true" />
+            <element signature="e#13781#13782#0" expanded="true" />
+            <element signature="e#13829#13830#0" expanded="true" />
+            <element signature="e#13869#13870#0" expanded="true" />
+            <element signature="e#13905#13906#0" expanded="true" />
+            <element signature="e#13963#13964#0" expanded="true" />
+            <element signature="e#14013#14014#0" expanded="true" />
+            <element signature="e#14061#14062#0" expanded="true" />
+            <element signature="e#14105#14106#0" expanded="true" />
+            <element signature="e#14282#14283#0" expanded="true" />
+            <element signature="e#14318#14319#0" expanded="true" />
+            <element signature="e#14373#14374#0" expanded="true" />
+            <element signature="e#14423#14424#0" expanded="true" />
+            <element signature="e#14463#14464#0" expanded="true" />
+            <element signature="e#14499#14500#0" expanded="true" />
+            <element signature="e#14558#14559#0" expanded="true" />
+            <element signature="e#14608#14609#0" expanded="true" />
+            <element signature="e#14643#14644#0" expanded="true" />
+            <element signature="e#14674#14675#0" expanded="true" />
+            <element signature="e#14723#14724#0" expanded="true" />
+            <element signature="e#14763#14764#0" expanded="true" />
+            <element signature="e#14806#14807#0" expanded="true" />
+            <element signature="e#14848#14849#0" expanded="true" />
+            <element signature="e#14915#14916#0" expanded="true" />
+            <element signature="e#14977#14978#0" expanded="true" />
+            <element signature="e#15015#15016#0" expanded="true" />
+            <element signature="e#15049#15050#0" expanded="true" />
+            <element signature="e#15087#15088#0" expanded="true" />
+            <element signature="e#15121#15122#0" expanded="true" />
+            <element signature="e#15161#15162#0" expanded="true" />
+            <element signature="e#15197#15198#0" expanded="true" />
+            <element signature="e#15255#15256#0" expanded="true" />
+            <element signature="e#15305#15306#0" expanded="true" />
+            <element signature="e#15360#15361#0" expanded="true" />
+            <element signature="e#15406#15407#0" expanded="true" />
+            <element signature="e#15460#15461#0" expanded="true" />
+            <element signature="e#15510#15511#0" expanded="true" />
+            <element signature="e#15713#15714#0" expanded="true" />
+            <element signature="e#15737#15738#0" expanded="true" />
+            <element signature="e#15770#15771#0" expanded="true" />
+            <element signature="e#15802#15803#0" expanded="true" />
+            <element signature="e#15849#15850#0" expanded="true" />
+            <element signature="e#15891#15892#0" expanded="true" />
+            <element signature="e#15937#15938#0" expanded="true" />
+            <element signature="e#15982#15983#0" expanded="true" />
+            <element signature="e#16164#16165#0" expanded="true" />
+            <element signature="e#16204#16205#0" expanded="true" />
+            <element signature="e#16267#16268#0" expanded="true" />
+            <element signature="e#16325#16326#0" expanded="true" />
+            <element signature="e#16359#16360#0" expanded="true" />
+            <element signature="e#16392#16393#0" expanded="true" />
+            <element signature="e#16441#16442#0" expanded="true" />
+            <element signature="e#16485#16486#0" expanded="true" />
+            <element signature="e#16524#16525#0" expanded="true" />
+            <element signature="e#16559#16560#0" expanded="true" />
+            <element signature="e#16748#16749#0" expanded="true" />
+            <element signature="e#16781#16782#0" expanded="true" />
+            <element signature="e#16837#16838#0" expanded="true" />
+            <element signature="e#16874#16875#0" expanded="true" />
+            <element signature="e#16913#16914#0" expanded="true" />
+            <element signature="e#16948#16949#0" expanded="true" />
+            <element signature="e#17547#17548#0" expanded="true" />
+            <element signature="e#17576#17577#0" expanded="true" />
+            <element signature="e#17621#17622#0" expanded="true" />
+            <element signature="e#17657#17658#0" expanded="true" />
+            <element signature="e#17696#17697#0" expanded="true" />
+            <element signature="e#17731#17732#0" expanded="true" />
+            <element signature="e#17787#17788#0" expanded="true" />
+            <element signature="e#17835#17836#0" expanded="true" />
+            <element signature="e#17869#17870#0" expanded="true" />
+            <element signature="e#17899#17900#0" expanded="true" />
+            <element signature="e#17945#17946#0" expanded="true" />
+            <element signature="e#17983#17984#0" expanded="true" />
+            <element signature="e#18021#18022#0" expanded="true" />
+            <element signature="e#18055#18056#0" expanded="true" />
+            <element signature="e#18109#18110#0" expanded="true" />
+            <element signature="e#18155#18156#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/game_server.cfg.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="77" column="29" lean-forward="true" selection-start-line="77" selection-start-column="29" selection-end-line="77" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_171/src.zip!/javax/script/ScriptEngineManager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="169">
+          <caret line="405" column="49" selection-start-line="405" selection-start-column="49" selection-end-line="405" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_171/src.zip!/javax/script/ScriptEngine.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1603">
+          <caret line="53" column="21" lean-forward="true" selection-start-line="53" selection-start-column="21" selection-end-line="53" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_171/src.zip!/javax/script/Bindings.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="68" column="11" selection-start-line="68" selection-start-column="11" selection-end-line="68" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/xmg/jscompile/SgConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="6" column="25" selection-start-line="6" selection-start-column="19" selection-end-line="6" selection-end-column="25" />
+          <folding>
+            <element signature="e#235#236#0" expanded="true" />
+            <element signature="e#267#268#0" expanded="true" />
+            <element signature="e#314#315#0" expanded="true" />
+            <element signature="e#356#357#0" expanded="true" />
+            <element signature="e#389#390#0" expanded="true" />
+            <element signature="e#418#419#0" expanded="true" />
+            <element signature="e#462#463#0" expanded="true" />
+            <element signature="e#498#499#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/xmg/jscompile/JSScriptManagerImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="169">
+          <caret line="70" column="18" selection-start-line="70" selection-start-column="18" selection-end-line="70" selection-end-column="18" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_171/src.zip!/javax/script/ScriptEngineFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="303">
+          <caret line="227" column="25" selection-start-line="227" selection-start-column="25" selection-end-line="227" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/xmg/jscompile/IScriptEngine.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="169">
+          <caret line="39" column="25" selection-start-line="39" selection-start-column="25" selection-end-line="39" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/xmg/jscompile/ConfigUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-398">
+          <caret line="24" column="10" selection-start-line="24" selection-start-column="10" selection-end-line="24" selection-end-column="10" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/xmg/jscompile/JSMain.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1021">
+          <caret line="43" lean-forward="true" selection-start-line="43" selection-end-line="43" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
